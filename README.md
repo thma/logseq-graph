@@ -1,2 +1,2 @@
-# logseq-graph
-my fp logseq space
+- my fp / haskell logseq space
+- [[research-topics]]
