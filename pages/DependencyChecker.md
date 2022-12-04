@@ -1,0 +1,1 @@
+- Finish DependencyChecker for layerered an onion architectures (with explicit white- and black-lists)

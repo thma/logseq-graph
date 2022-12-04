@@ -1,0 +1,6 @@
+- [[Haskell to Latex generator]]
+- [[HasBigDecimals]]
+- [[DependencyChecker]]
+- learn NIX
+- [[Java-Effects]]
+- [[Ghcup TUI]]

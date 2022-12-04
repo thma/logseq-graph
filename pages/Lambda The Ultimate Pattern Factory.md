@@ -1,0 +1,1 @@
+- [my collecion of thoughts about patterns in OO and FP and their foundation in category theory](https://thma.github.io/posts/2018-11-24-lambda-the-ultimate-pattern-factory.html)

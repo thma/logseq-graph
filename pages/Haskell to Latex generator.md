@@ -1,0 +1,2 @@
+- Similar to latexify for pathon which allows to translate ordinary python function declaration to latex formulars
+- Maybe it could be implemented with conal Elliots ConCat (compilation to categories)

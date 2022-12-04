@@ -1,0 +1,1 @@
+- @TODO: Do some more research and write an update to the pattern article

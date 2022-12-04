@@ -1,2 +1,3 @@
 - my fp / haskell logseq space
 - [[research-topics]]
+- [[Coding Projects]]

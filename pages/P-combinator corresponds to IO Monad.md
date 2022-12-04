@@ -1,0 +1,2 @@
+- I had the idea that the parallel evaluation combinator P which allows controlled side effects between otherwise isolated graph-reduction processes is related to concepts of the State- an IO-Monads.
+- @Todo: do some research
